@@ -2,7 +2,7 @@
 
 This is the testing site based on the tutorial of http://www.51bxl.cn/blog/2/
 
-
+~~~
 virtualenv venv
 venv\scripts\activate
 pip install -r requirements.txt
@@ -14,5 +14,5 @@ python manage.py createsuperuser
 
 
 python manage.py runserver
-
+~~~
 
